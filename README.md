@@ -5,5 +5,5 @@
 </a>
 <p><p><p>
 <a href="https://github.com/capteeni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capteeni&layout=compact&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capteeni&layout=compact&theme=gotham" />
 </a>
