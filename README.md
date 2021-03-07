@@ -1,4 +1,4 @@
-<h3 align="center">capu#4595</h3>
+<h3>capu#4595</h3>
 <br>
 <br>
 <a href="https://github.com/capteeni/github-readme-stats">
